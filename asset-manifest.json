@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/joe-dp.github.io/chart-component/static/css/main.073c9b0a.css",
-    "main.js": "/joe-dp.github.io/chart-component/static/js/main.1299bcd8.js",
-    "static/js/787.5a42d32c.chunk.js": "/joe-dp.github.io/chart-component/static/js/787.5a42d32c.chunk.js",
-    "static/media/logo.svg": "/joe-dp.github.io/chart-component/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/joe-dp.github.io/chart-component/index.html",
-    "main.073c9b0a.css.map": "/joe-dp.github.io/chart-component/static/css/main.073c9b0a.css.map",
-    "main.1299bcd8.js.map": "/joe-dp.github.io/chart-component/static/js/main.1299bcd8.js.map",
-    "787.5a42d32c.chunk.js.map": "/joe-dp.github.io/chart-component/static/js/787.5a42d32c.chunk.js.map"
+    "main.css": "/chart-component/static/css/main.073c9b0a.css",
+    "main.js": "/chart-component/static/js/main.093f521b.js",
+    "static/js/787.5a42d32c.chunk.js": "/chart-component/static/js/787.5a42d32c.chunk.js",
+    "static/media/logo.svg": "/chart-component/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chart-component/index.html",
+    "main.073c9b0a.css.map": "/chart-component/static/css/main.073c9b0a.css.map",
+    "main.093f521b.js.map": "/chart-component/static/js/main.093f521b.js.map",
+    "787.5a42d32c.chunk.js.map": "/chart-component/static/js/787.5a42d32c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1299bcd8.js"
+    "static/js/main.093f521b.js"
   ]
 }
